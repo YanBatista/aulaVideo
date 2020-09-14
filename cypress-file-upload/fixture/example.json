@@ -1,0 +1,13 @@
+{
+    "name": "Using fixtures to represent data",
+    "email": "hello@cypress.io",
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "user": 41907038345,
+    "virifyAlter": "https://google.com",
+    "password": 123456789,
+    "veiculosAprovados": "app/#/veiculos/aprovados",
+    "chassi": "OSDFIUFWKFNWEJRHR",
+    "cpf": "19443749000131",
+    "cnpj": "",
+    "comentarioTransferencia": "Teste Yan QA"
+}
